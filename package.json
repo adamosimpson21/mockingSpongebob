@@ -1,0 +1,12 @@
+{
+  "name": "mockingspongebob",
+  "version": "1.0.0",
+  "description": "Turn text into mocking sponge bob meme text",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BandsWithLegends",
+  "license": "ISC"
+}
